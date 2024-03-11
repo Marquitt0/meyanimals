@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #286199;
 }
 
 a {
@@ -32,7 +32,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #006370;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -165,7 +165,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #69898d;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -176,7 +176,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #006370;
 }
 
 .nav-menu a:hover,
